@@ -14,39 +14,33 @@ The front-end features a custom-designed **Glassmorphism (Liquid Glass)** style 
 ---
 
 ## 📸 Screenshots & Preview
-Here is a visual preview of the application's interface. Click on any image to view it in full size:
-
-<table>
-  <tr>
-    <td>
-      <p align="center"><b>Dashboard & Analytics</b></p>
-      <a href="./screenshots/dashboard.png">
-        <img src="./screenshots/dashboard.png" width="400" alt="Dashboard Screen">
-      </a>
-    </td>
-    <td>
-      <p align="center"><b>Servants Registration</b></p>
-      <a href="./screenshots/registration.png">
-        <img src="./screenshots/registration.png" width="400" alt="Registration Screen">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p align="center"><b>Shift Scheduler</b></p>
-      <a href="./screenshots/shifts.png">
-        <img src="./screenshots/shifts.png" width="400" alt="Shifts Screen">
-      </a>
-    </td>
-    <td>
-      <p align="center"><b>Admin Settings</b></p>
-      <a href="./screenshots/settings.png">
-        <img src="./screenshots/settings.png" width="400" alt="Settings Screen">
-      </a>
-    </td>
-  </tr>
-</table>
-
+<details>
+  <summary><b>📐 Click to view all 12 project screenshots</b></summary>
+  <br>
+  
+  <table>
+    <tr>
+      <td><img src="./screenshots/ima1.png" width="300"><p align="center">Page 1</p></td>
+      <td><img src="./screenshots/img2.png" width="300"><p align="center">Page 2</p></td>
+      <td><img src="./screenshots/img3.png" width="300"><p align="center">Page 3</p></td>
+    </tr>
+    <tr>
+      <td><img src="./screenshots/img4.png" width="300"><p align="center">Page 4</p></td>
+      <td><img src="./screenshots/img5.png" width="300"><p align="center">Page 5</p></td>
+      <td><img src="./screenshots/img6.png" width="300"><p align="center">Page 6</p></td>
+    </tr>
+    <tr>
+      <td><img src="./screenshots/img7.png" width="300"><p align="center">Page 7</p></td>
+      <td><img src="./screenshots/img8.png" width="300"><p align="center">Page 8</p></td>
+      <td><img src="./screenshots/img9.png" width="300"><p align="center">Page 9</p></td>
+    </tr>
+    <tr>
+      <td><img src="./screenshots/img10.png" width="300"><p align="center">Page 10</p></td>
+      <td><img src="./screenshots/img11.png" width="300"><p align="center">Page 11</p></td>
+      <td><img src="./screenshots/img12.png" width="300"><p align="center">Page 12</p></td>
+    </tr>
+  </table>
+</details>
 *(Note: You can add or replace screenshots in the `./screenshots/` folder).*
 
 ---
@@ -54,8 +48,13 @@ Here is a visual preview of the application's interface. Click on any image to v
 ## 📄 Project Documentation
 The complete and official academic project documentation is available. It includes system analysis, database design, and technical specifications.
 
-👉 **[Read the Full PDF Documentation (Persian)](./docs/project_document.pdf)** 📄✨
+👉 **[Read the Full PDF Documentation (Persian)](./docs/project-document.pdf)** 📄✨
 
+---
+## 📊 Presentation Slides (Defense PowerPoint)
+In addition to the official document, you can access the presentation slides used during our final project defense:
+
+👉 **[View Slides in PDF (Quick Preview)](./docs/project_presentation.pdf)** 💻✨ (Optimized for viewing directly on GitHub with all styles and Persian fonts preserved)
 ---
 
 ## 🛠️ Tech Stack & Architecture
@@ -63,17 +62,3 @@ The complete and official academic project documentation is available. It includ
 - **Back-end:** PHP (OOP/Procedural).
 - **Database:** MySQL.
 
----
-
-## 👥 Authors & Roles
-This project was a collaborative teamwork:
-- **Ahmad** ([@Ahmad-GitHub-Username](https://github.com/Ahmad-GitHub-Username)) - Front-end Developer & UI/UX Designer.
-- **[Friend's Name]** ([@Friend-GitHub-Username](https://github.com/Friend-GitHub-Username)) - Back-end Developer & Database Architect.
-
----
-
-## 🚀 How to Run Locally
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
